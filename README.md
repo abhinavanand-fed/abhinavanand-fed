@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhinavanand-fed
+- 👋 Hi, I’m Abhinav Anand /n
 There is nothing much to tell about me. 
 <!---
 abhinavanand-fed/abhinavanand-fed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
