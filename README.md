@@ -36,7 +36,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinavanand-fed&theme=highcontrast&hide_border=true&border_radius=4.8)](https://git.io/streak-stats) <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavanand-fed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
