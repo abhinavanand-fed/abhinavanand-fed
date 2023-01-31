@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abhinavanand-fed&style=flat-square&color=blue" alt=""/>
 </div>
@@ -39,3 +35,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinavanand-fed&theme=highcontrast&hide_border=true&border_radius=4.8)](https://git.io/streak-stats) <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavanand-fed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavanand-fed)](https://github.com/abhinavanand-fed/github-readme-stats)
