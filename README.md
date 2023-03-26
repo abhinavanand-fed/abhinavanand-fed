@@ -38,4 +38,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavanand-fed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavanand-fed)](https://github.com/abhinavanand-fed/github-readme-stats)
-[![Abhinav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhinavanand-fed0&theme=dracula)](https://github.com/abhinavanand-fed/github-readme-activity-graph)
+[![Abhinav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhinavanand-fed&theme=dracula)](https://github.com/abhinavanand-fed/github-readme-activity-graph)
