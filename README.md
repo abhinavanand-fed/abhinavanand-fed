@@ -10,9 +10,6 @@
 
 - :seedling: Exploring new things.
 
-- :zap: In my free time, I solve problems.
-- 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abhinavanand-fed&style=flat-square&color=blue" alt=""/>
 </div>
