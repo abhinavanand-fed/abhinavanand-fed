@@ -31,8 +31,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinavanand-fed&theme=highcontrast&hide_border=true&border_radius=4.8)](https://git.io/streak-stats) <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavanand-fed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavanand-fed)](https://github.com/abhinavanand-fed/github-readme-stats)
-[![Abhinav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhinavanand-fed&theme=dracula)](https://github.com/abhinavanand-fed/github-readme-activity-graph)
+![abhinavanand-fed's Stats](https://github-readme-stats.vercel.app/api?username=abhinavanand-fed&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![abhinavanand-fed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavanand-fed&theme=vue-dark&hide_border=false)
+![abhinavanand-fed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavanand-fed&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
