@@ -1,7 +1,6 @@
 <h1>
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img alighn ="right " src="https://media.discordapp.net/attachments/843210843565981778/989778653435027516/unknown.png?width=45&height=45"/>
 </h1>
 
 <div align="center">
